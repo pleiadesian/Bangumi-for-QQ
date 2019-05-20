@@ -1,10 +1,9 @@
-
-Bangumi娘的食用指南
-===================
+Bangumi-for-QQ
+=====
 
 ### 简介
 
-Bangumi娘是基于 <a href="https://github.com/richardchien/coolq-http-api" target="_blank">CoolQ HTTP API</a> 以及 <a href="https://github.com/bangumi/api" target="_blank">Bangumi API</a> 通过PHP及SQL实现的
+基于 <a href="https://github.com/richardchien/coolq-http-api" target="_blank">CoolQ HTTP API</a> 以及 <a href="https://github.com/bangumi/api" target="_blank">Bangumi API</a> 通过PHP及SQL实现的
 
 ### 用途
 
@@ -16,9 +15,9 @@ GitHub说明文档: <a href="Bangumi娘的食用指南.md">Bangumi娘的食用�
 
 网页说明文档: <a href="http://www.irisu.cc/bangumi/" target="_blank">Bangumi娘的食用指南</a> / <a href="https://kurarion.github.io/Bangumi-for-QQ/" target="_blank">Bangumi娘的食用指南[github.io]</a>
 
-### 食用Bangumi娘
+### 使用方法
 
-Bangumi娘QQ号: 1243000303 
+Bangumi-for-QQ QQ号: 1243000303 
 
 讨论群: 477741212
 
